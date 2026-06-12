@@ -25,9 +25,9 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Join 1LV NOWW!",
+        name: "1LV On TOP - Owned by Rainewhiffs and Co-owned by Brownrants",
         // Activity type number (0 = Playing).
-        type: 5, 
+        type: 4, 
       },
     ],
   },
