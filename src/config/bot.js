@@ -25,7 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "1LV On TOP - Owned by Rainewhiffs and Co-owned by Brownrants",
+        name: "1 Last Victory",
         // Activity type number (0 = Playing).
         type: 4, 
       },
@@ -292,7 +292,7 @@ export const botConfig = {
     defaultMessage: "Click the button below to verify yourself and gain access to the Offical 1LV server!",
 
     // Text on the verification button.
-    defaultButtonText: "Verify",
+    defaultButtonText: "Verify Now",
 
     // Automatic verification behavior.
     autoVerify: {
